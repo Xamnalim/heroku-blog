@@ -1,0 +1,42 @@
+body{
+    background-color: #303030;
+    color: white;
+}
+
+h1{
+    color: #333333;
+}
+
+h2{
+    color: #d7ba7d;
+}
+
+a, a:hover{
+    color: inherit;
+}
+
+.container{
+    background-color: #333333;
+}
+
+.header{
+    background-color: #d7ba7d;
+}
+
+.footer{
+    color: #727272;
+}
+
+.post-meta{
+    color: #727272;
+    border-color: #727272;
+    border-bottom-style: solid;
+    border-width: 1px;
+    
+}
+
+.btn-post {
+    color: #d7ba7d;
+    background-color: inherit;
+    border-color: #d7ba7d;
+}
